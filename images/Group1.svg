@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="231.27" height="49" viewBox="0 0 231.27 49">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_27" data-name="Rectangle 27" width="19" height="19" rx="9.5" transform="translate(-0.005 0)" fill="#fff" opacity="0.7"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_52" data-name="Rectangle 52" width="19" height="19" rx="9.5" transform="translate(0.128 0.223)" fill="#fff" opacity="0.7"/>
+    </clipPath>
+  </defs>
+  <g id="Group_42" data-name="Group 42" transform="translate(-373 -38)">
+    <g id="Group_34" data-name="Group 34" transform="translate(188 -41)">
+      <path id="Subtraction_1" data-name="Subtraction 1" d="M12,24h0A12,12,0,0,1,3.515,3.515,11.921,11.921,0,0,1,12,0V24Z" transform="translate(185 79)" fill="#355963"/>
+      <path id="Subtraction_2" data-name="Subtraction 2" d="M12,24h0A12,12,0,0,1,3.515,3.515,11.921,11.921,0,0,1,12,0V24Z" transform="translate(238 103) rotate(180)" fill="#31c3e9"/>
+      <path id="Subtraction_3" data-name="Subtraction 3" d="M12,24h0A12,12,0,0,1,3.515,3.515,11.921,11.921,0,0,1,12,0V24Z" transform="translate(238 128) rotate(180)" fill="#31c3e9"/>
+      <path id="Subtraction_4" data-name="Subtraction 4" d="M12,24h0A12,12,0,0,1,3.515,3.515,11.921,11.921,0,0,1,12,0V24Z" transform="translate(221 128) rotate(180)" fill="#355963"/>
+      <g id="Mask_Group_6" data-name="Mask Group 6" transform="translate(202.005 79)" clip-path="url(#clip-path)">
+        <g id="Group_31" data-name="Group 31" transform="translate(-7.05 9.222) rotate(-45)">
+          <rect id="Rectangle_28" data-name="Rectangle 28" width="0.996" height="24.889" transform="translate(11.946 0)" fill="#355963"/>
+          <rect id="Rectangle_37" data-name="Rectangle 37" width="0.996" height="24.889" transform="translate(19.911 0)" fill="#355963"/>
+          <rect id="Rectangle_31" data-name="Rectangle 31" width="0.996" height="24.889" transform="translate(7.964 0)" fill="#355963"/>
+          <rect id="Rectangle_39" data-name="Rectangle 39" width="0.996" height="24.889" transform="translate(15.929 0)" fill="#355963"/>
+          <rect id="Rectangle_33" data-name="Rectangle 33" width="0.996" height="24.889" transform="translate(3.982 0)" fill="#355963"/>
+          <rect id="Rectangle_35" data-name="Rectangle 35" width="0.996" height="24.889" transform="translate(0 0)" fill="#355963"/>
+          <rect id="Rectangle_29" data-name="Rectangle 29" width="0.996" height="24.889" transform="translate(13.938 0)" fill="#355963"/>
+          <rect id="Rectangle_36" data-name="Rectangle 36" width="0.996" height="24.889" transform="translate(21.902 0)" fill="#355963"/>
+          <rect id="Rectangle_30" data-name="Rectangle 30" width="0.996" height="24.889" transform="translate(9.955 0)" fill="#355963"/>
+          <rect id="Rectangle_38" data-name="Rectangle 38" width="0.996" height="24.889" transform="translate(17.92 0)" fill="#355963"/>
+          <rect id="Rectangle_32" data-name="Rectangle 32" width="0.996" height="24.889" transform="translate(5.973 0)" fill="#355963"/>
+          <rect id="Rectangle_34" data-name="Rectangle 34" width="0.996" height="24.889" transform="translate(1.991 0)" fill="#355963"/>
+        </g>
+      </g>
+      <g id="Mask_Group_7" data-name="Mask Group 7" transform="translate(185.872 107.777)" clip-path="url(#clip-path-2)">
+        <g id="Group_32" data-name="Group 32" transform="translate(-6.845 9.315) rotate(-45)">
+          <rect id="Rectangle_40" data-name="Rectangle 40" width="0.996" height="24.889" transform="translate(11.946 0)" fill="#355963"/>
+          <rect id="Rectangle_41" data-name="Rectangle 41" width="0.996" height="24.889" transform="translate(19.911 0)" fill="#355963"/>
+          <rect id="Rectangle_42" data-name="Rectangle 42" width="0.996" height="24.889" transform="translate(7.964 0)" fill="#355963"/>
+          <rect id="Rectangle_43" data-name="Rectangle 43" width="0.996" height="24.889" transform="translate(15.929 0)" fill="#355963"/>
+          <rect id="Rectangle_44" data-name="Rectangle 44" width="0.996" height="24.889" transform="translate(3.982 0)" fill="#355963"/>
+          <rect id="Rectangle_45" data-name="Rectangle 45" width="0.996" height="24.889" transform="translate(0 0)" fill="#355963"/>
+          <rect id="Rectangle_46" data-name="Rectangle 46" width="0.996" height="24.889" transform="translate(13.938 0)" fill="#355963"/>
+          <rect id="Rectangle_47" data-name="Rectangle 47" width="0.996" height="24.889" transform="translate(21.902 0)" fill="#355963"/>
+          <rect id="Rectangle_48" data-name="Rectangle 48" width="0.996" height="24.889" transform="translate(9.955 0)" fill="#355963"/>
+          <rect id="Rectangle_49" data-name="Rectangle 49" width="0.996" height="24.889" transform="translate(17.92 0)" fill="#355963"/>
+          <rect id="Rectangle_50" data-name="Rectangle 50" width="0.996" height="24.889" transform="translate(5.973 0)" fill="#355963"/>
+          <rect id="Rectangle_51" data-name="Rectangle 51" width="0.996" height="24.889" transform="translate(1.991 0)" fill="#355963"/>
+        </g>
+      </g>
+    </g>
+    <text id="Service_Base" data-name="Service Base" transform="translate(443 65)" fill="#678d98" font-size="24" font-family="Exo-Bold, Exo" font-weight="700"><tspan x="0" y="0">SERVICE</tspan><tspan y="0" fill="#fff"> </tspan><tspan y="0" fill="#31c3e9">BASE</tspan></text>
+    <text id="Logistics_Construction" data-name="Logistics &amp; Construction" transform="translate(443 79)" fill="#355963" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">LOGISTICS &amp; CONSTRUCTION</tspan></text>
+    <path id="Polygon_3" data-name="Polygon 3" d="M4.652,0,9.3,8.14H0Z" transform="translate(592.64 70.197) rotate(90)" fill="#355963"/>
+    <path id="Polygon_4" data-name="Polygon 4" d="M4.652,0,9.3,8.14H0Z" transform="translate(604.27 70.196) rotate(90)" fill="#355963"/>
+    <path id="Polygon_5" data-name="Polygon 5" d="M4.652,0,9.3,8.14H0Z" transform="translate(598.455 70.196) rotate(90)" fill="#355963"/>
+  </g>
+</svg>
