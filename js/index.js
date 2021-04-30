@@ -15,7 +15,7 @@
  }).addTo(map);
  
  // Target's GPS coordinates.
- var target = L.latLng('47.50737', '19.04611');
+ var target = L.latLng('15.314429', '44.1821137');
  
  // Set map's center to target with zoom 14.
  map.setView(target, 14);
